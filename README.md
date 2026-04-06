@@ -4,7 +4,7 @@ A clean, fast, and simple Python script to convert any public URL or HTML page i
 
 ## 🚀 How to use
 
-1. **Get your API Key:** Get your free API key at [RapidAPI - URL to PDF Generator]([https://rapidapi.com/seu-link-aqui](https://rapidapi.com/titavares33/api/urltopdf-invoices-reports)).
+1. **Get your API Key:** Get your free API key at [RapidAPI - URL to PDF Generator](https://rapidapi.com/titavares33/api/urltopdf-invoices-reports).
 
 2. **Install dependencies:**
    ```bash
