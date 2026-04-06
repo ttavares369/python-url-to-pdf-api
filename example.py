@@ -2,7 +2,7 @@ import requests
 import json
 
 def generate_pdf_from_url(target_url, rapidapi_key):
-    # Get your FREE API key here: https://rapidapi.com/seu-link-aqui
+    # Get your FREE API key here: https://rapidapi.com/titavares33/api/urltopdf-invoices-reports
     api_url = "https://urltopdf-invoices-reports.p.rapidapi.com/api/v1/pdf"
     
     headers = {
